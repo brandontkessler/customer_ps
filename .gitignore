@@ -1,0 +1,9 @@
+# PS Raw Data Files
+data/raw/**.csv
+**.xlsx
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Conda environment
+customer_env/
