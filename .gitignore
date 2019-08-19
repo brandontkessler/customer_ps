@@ -1,5 +1,6 @@
 # PS Raw Data Files
 data/raw/**.csv
+data/raw/subs/**.csv
 **.xlsx
 
 # Byte-compiled / optimized / DLL files
